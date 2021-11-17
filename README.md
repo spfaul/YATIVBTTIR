@@ -1,6 +1,6 @@
 # Yet Another Terminal Image Viewer But This Time In Rust (YATIVBTTIR)
 
-![demo1](https://user-images.githubusercontent.com/69741305/142180087-4f6f6125-137e-4833-9129-427ce78aad46.mp4)
+![demo](https://user-images.githubusercontent.com/69741305/142180726-5431f0aa-20e6-496d-8caa-2586f11ceca7.gif)
 
 Because there totally aren't hundreds of repos that do the same thing but better.
 Displays RGB images in the terminal (terminal must have truecolor support).
