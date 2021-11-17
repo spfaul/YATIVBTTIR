@@ -11,7 +11,6 @@ fn main() {
 	                      .author("Author: t0a5ted")
 	                      .about("View RGB8 images inside the terminal")
 	                      .arg(Arg::with_name("file")
-	                      		.short("f")
 	                      		.value_name("FILE")
 	                      		.help("Relative or Absolute File Path to Image")
 	                      		.takes_value(true)

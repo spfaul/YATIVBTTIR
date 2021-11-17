@@ -13,3 +13,12 @@ cargo build --release
 ./target/release/yativbttir
 ```
 
+#### Optional (BASH): Create Alias for easy access.
+Add the following line to your `.bashrc` or `.bash_aliases`
+```
+alias tiv=./installdir/target/release/yativbttir
+```
+> change installdir to the root of the YATIVBTTR folder
+
+Run YATIVBTTR with `tiv --help`
+
