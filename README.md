@@ -18,7 +18,7 @@ Add the following line to your `.bashrc` or `.bash_aliases`
 ```
 alias tiv=./installdir/target/release/yativbttir
 ```
-> change installdir to the root of the YATIVBTTR folder
+> change `installdir` to the root of your YATIVBTTR folder
 
 Run YATIVBTTR with `tiv --help`
 
